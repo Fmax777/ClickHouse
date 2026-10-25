@@ -1,1 +1,1 @@
-# ClickHouse
+# Скрипт для ClickHouse
